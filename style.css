@@ -201,8 +201,8 @@ h4 {
 
 .masInfo:hover,
 .butNav:hover,
-.ampliar2:hover,
-#formEnviar:hover {
+.ampliar2:hover
+{
     background: #f21170;
     border-color: #f21170;
     transition: transform .4s;
@@ -524,3 +524,24 @@ textarea {
     grid-row: 2;
     grid-column: 5;
 }
+
+/* PERSONAL - FORMATO PARA BOTON FINAL DEL FORM
+ Para practicar animaciones y gradient de botones */
+.btnCool{
+  border: none;
+  margin-top: 3%;
+  padding-top: 2% ;
+  padding-bottom: 4%;
+  width: 15%;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+  background-size: 200%;
+  transition: 0.2s;
+  background-image: linear-gradient(to left,#0652DD,#0652DD,var(--colortextRosa));
+
+  }
+
+  .btnCool:hover{
+    background-position: right;
+  }

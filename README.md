@@ -1,5 +1,5 @@
 # CSS_HTML_ObligatorioDisenioWeb
-Semantic HTML; CSS practice (without responsive design yet)
+Semantic HTML; CSS practice (without responsive design yet at that point when it was requested)
 
 PROJECT SCOPE:
 Practice project made to show knowledge about semantic HTML; Selectors in CSS and other functions like FlexBox and Grid methods while testing classes, IDs and heritage.

@@ -2,7 +2,7 @@
 Semantic HTML; CSS practice (without responsive design yet at that point when it was requested)
 
 PROJECT SCOPE:
-Practice project made to show knowledge about semantic HTML; Selectors in CSS and other functions like FlexBox and Grid methods while testing classes, IDs and heritage.
+This is a past practice project made to show knowledge about semantic HTML; Selectors in CSS and other functions like FlexBox and Grid methods while testing classes, IDs and heritage. Includes no JS or programing due to the scope of the subject which this project was asked for.
 
 Absence of responsive design functions:
 There is not too much of responsive design in this project more than a couple common lines. We have learned to use Bootstrap for different devices and how to manage media queries right after this project, which was tested in an on-site exam, recreating mock sites for each device's size. That was not applied here.

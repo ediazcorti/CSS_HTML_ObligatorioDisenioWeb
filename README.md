@@ -12,4 +12,4 @@ Animations were also not requested, but I have implemented some for fun in here,
 
 
 NOTE: I am able to update this project to have a responsive design if it is requested for any interview as a proof of knowledge or anything similar. 
-I am also aware that class/id efficence can be upgraded too if needed.
+I am also aware that class/id efficence can be upgraded too if needed. Folder organization could have been done better too.
